@@ -17,7 +17,7 @@ from model.ddpg import DDPG
 from model.embedding import VideoGenreEmbedding, UserVideoEmbedding
 from model.ou_noise import OUNoise
 
-Path = '/home/tuannm84/Desktop/longbien/Project/MC'
+Path = ''
 
 # PATH_USER_DICT = os.path.join(hub, "user_dict.npy")
 # # PATH_EVAL_DATSET = os.path.join(hub, "eval_dict.npy")
